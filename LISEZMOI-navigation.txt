@@ -1,0 +1,4 @@
+MISE À JOUR : MENU DE NAVIGATION DANS L'EN-TÊTE (site restaurant)
+Fichiers à remplacer : index.php et style.css (rien d'autre : ne touchez pas à config.php ni à uploads).
+Le client voit dans l'en-tête : Menu - Galerie - Avis - Contact (Galerie n'apparaît que si la galerie contient des photos).
+Un clic fait défiler en douceur jusqu'à la section ; la section en cours est surlignée. Sur téléphone, les liens passent sur une seconde ligne.
